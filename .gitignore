@@ -90,3 +90,4 @@ ENV/
 
 # Don't add the big txt files in data
 data/*.txt
+data/*.pickle
